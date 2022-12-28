@@ -10,3 +10,9 @@
 [submodule "CPEN311-Arc4-Cipher"]
 	path = CPEN311-Arc4-Cipher
 	url = https://github.com/Haxrox/CPEN311-Arc4-Cipher
+[submodule "Realeux-Triangle-Reference-Model"]
+	path = Realeux-Triangle-Reference-Model
+	url = https://github.com/Haxrox/Realeux-Triangle-Reference-Model
+[submodule "ARC4-Reference-Model"]
+	path = ARC4-Reference-Model
+	url = https://github.com/Haxrox/ARC4-Reference-Model
