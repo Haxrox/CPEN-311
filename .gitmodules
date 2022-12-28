@@ -1,0 +1,12 @@
+[submodule "CPEN311-Baccarat"]
+	path = CPEN311-Baccarat
+	url = https://github.com/Haxrox/CPEN311-Baccarat
+[submodule "CPEN311-Realeux-Triangle"]
+	path = CPEN311-Realeux-Triangle
+	url = https://github.com/Haxrox/CPEN311-Realeux-Triangle
+[submodule "CPEN311-MNIST-Hardware-Accelerator"]
+	path = CPEN311-MNIST-Hardware-Accelerator
+	url = https://github.com/Haxrox/CPEN311-MNIST-Hardware-Accelerator
+[submodule "CPEN311-Arc4-Cipher"]
+	path = CPEN311-Arc4-Cipher
+	url = https://github.com/Haxrox/CPEN311-Arc4-Cipher
